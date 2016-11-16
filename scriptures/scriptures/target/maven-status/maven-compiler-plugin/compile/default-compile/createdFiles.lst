@@ -1,0 +1,6 @@
+edu\byui\cs313\scriptures\CreateScripture.class
+edu\byui\cs313\scriptures\ShowList.class
+edu\byui\cs313\scriptures\model\FileScriptureHandler.class
+edu\byui\cs313\scriptures\model\Scripture.class
+edu\byui\cs313\scriptures\model\HardCodedScriptureHandler.class
+edu\byui\cs313\scriptures\model\ScriptureDataHandler.class
