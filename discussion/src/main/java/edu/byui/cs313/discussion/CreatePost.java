@@ -3,11 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.byui.cs313.discussionthread;
+package edu.byui.cs313.discussion;
 
-import edu.byui.cs313.discussionthread.model.*;
-import edu.byui.cs313.discussionthread.model.FilePostHandler;
-import edu.byui.cs313.discussionthread.model.Post;
+import edu.byui.cs313.discussion.model.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;

@@ -1,7 +1,7 @@
 <%-- 
-    Document   : scriptureList
-    Created on : Nov 15, 2016, 10:20:43 PM
-    Author     : James Kim
+    Document   : signin
+    Created on : Nov 8, 2016, 8:13:07 PM
+    Author     : Melissa
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

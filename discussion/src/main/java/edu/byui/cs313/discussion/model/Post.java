@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.byui.cs313.discussionthread.model;
+package edu.byui.cs313.discussion.model;
 
 /**
  *

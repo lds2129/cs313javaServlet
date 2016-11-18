@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.byui.cs313.discussionthread;
+package edu.byui.cs313.discussion;
 
 import java.io.FileNotFoundException;
 import java.io.BufferedReader;
@@ -22,7 +22,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author James Kim
+ * @author Melissa
  */
 @WebServlet(name = "Login", urlPatterns = {"/Login"})
 public class Login extends HttpServlet {
